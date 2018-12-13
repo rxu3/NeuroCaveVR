@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="NeuroCaveVR_MRHeadset.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SingleConnectomeManipulation.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SingleConnectomeManipulation.cs" Line="44" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

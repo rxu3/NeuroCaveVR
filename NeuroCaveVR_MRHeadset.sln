@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroCaveVR_MRHeadset", "NeuroCaveVR_MRHeadset.csproj", "{90C7A18D-A4E5-4A03-CCD3-C75658514B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroCaveVR_MRHeadset.Editor", "NeuroCaveVR_MRHeadset.Editor.csproj", "{D9733055-5179-8202-F308-3FD4DCF708FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C7A18D-A4E5-4A03-CCD3-C75658514B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C7A18D-A4E5-4A03-CCD3-C75658514B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C7A18D-A4E5-4A03-CCD3-C75658514B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C7A18D-A4E5-4A03-CCD3-C75658514B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9733055-5179-8202-F308-3FD4DCF708FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9733055-5179-8202-F308-3FD4DCF708FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9733055-5179-8202-F308-3FD4DCF708FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9733055-5179-8202-F308-3FD4DCF708FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

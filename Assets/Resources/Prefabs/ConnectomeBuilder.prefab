@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1122862864969170}
+  m_IsPrefabParent: 1
+--- !u!1 &1122862864969170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4591073169811932}
+  - component: {fileID: 114047940256807540}
+  m_Layer: 0
+  m_Name: ConnectomeBuilder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4591073169811932
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1122862864969170}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2994244, y: -1.6173047, z: 2.486827}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114047940256807540
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1122862864969170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3f05b46a19c027408f6d9908d9cd35f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodePrefab: {fileID: 1245046990805360, guid: dd41ecadbcd50ca49a9d498267852f35, type: 2}
+  edgePrefab: {fileID: 1818723168990742, guid: 53fa4d9acd82190458642b5431ae53c1, type: 2}
+  thresholdMax: 100
+  thresholdMin: 0
+  leftCerebellum:
+    serializedVersion: 2
+    rgba: 128
+  leftSubcortical:
+    serializedVersion: 2
+    rgba: 2649770
+  brainstem:
+    serializedVersion: 2
+    rgba: 32896
+  leftFrontal:
+    serializedVersion: 2
+    rgba: 8421376
+  leftOccipital:
+    serializedVersion: 2
+    rgba: 8388608
+  leftParietal:
+    serializedVersion: 2
+    rgba: 2428083
+  leftTemporal:
+    serializedVersion: 2
+    rgba: 4921830
+  rightCerebellum:
+    serializedVersion: 2
+    rgba: 3179153
+  rightFrontal:
+    serializedVersion: 2
+    rgba: 1696255
+  rightOccipital:
+    serializedVersion: 2
+    rgba: 3995090
+  rightParietal:
+    serializedVersion: 2
+    rgba: 4961340
+  rightSubcortical:
+    serializedVersion: 2
+    rgba: 15790150
+  rightTemporal:
+    serializedVersion: 2
+    rgba: 13140480
+  thalamus:
+    serializedVersion: 2
+    rgba: 11804305
+  Caudate:
+    serializedVersion: 2
+    rgba: 15086320
+  Cingulate:
+    serializedVersion: 2
+    rgba: 8421504
+  Pallidum:
+    serializedVersion: 2
+    rgba: 12500730
+  Paracentral:
+    serializedVersion: 2
+    rgba: 11851775
+  SuperiorFrontalCortex:
+    serializedVersion: 2
+    rgba: 13171455
+  hippocampus:
+    serializedVersion: 2
+    rgba: 12844970
+  precuneus:
+    serializedVersion: 2
+    rgba: 16760550
+  putamen:
+    serializedVersion: 2
+    rgba: 16777215
+  superiorParietal:
+    serializedVersion: 2
+    rgba: 11759733
+  nonRichclub:
+    serializedVersion: 2
+    rgba: 16748126
